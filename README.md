@@ -1,5 +1,9 @@
 # Traveling Salesman Problem: five algorithms
 
+https://donnyboy72.github.io/tsp-algorithm-visualizer/tsp_visual.html
+https://donnyboy72.github.io/tsp-algorithm-visualizer/tsp_comparison_map.html
+https://donnyboy72.github.io/tsp-algorithm-visualizer/](https://donnyboy72.github.io/tsp-algorithm-visualizer/
+
 Compare round trips through 30 cities between Charleston, SC and Atlanta, GA.
 The program prints routes, distances, and measured runtimes, then generates an
 animated Leaflet/Chart.js visualizer and a Folium map with toggleable layers.
